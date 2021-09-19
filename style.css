@@ -4,6 +4,12 @@
   border: 0;
   box-sizing: border-box;
 }
-:root {
-  direction: rtl;
+
+body {
+  background-color: rgb(212, 218, 224);
+  color: #fff;
+}
+
+h1 {
+  padding: 25px;
 }
