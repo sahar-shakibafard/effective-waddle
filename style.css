@@ -4,6 +4,7 @@
   border: 0;
   box-sizing: border-box;
 }
+
 body {
   background-color: rgb(212, 218, 224);
   color: #fff;
@@ -11,4 +12,8 @@ body {
 
 h1 {
   padding: 20px;
+}
+
+p {
+  color: #13083d;
 }
